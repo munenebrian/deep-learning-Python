@@ -17,3 +17,4 @@ location = input()
 print("So you live in " + location + "!")
 # we also have len() which gives us the lenght value of the variable
 # str() this converts to a string int() converts to a integer float() converts to a float value
+# when Python runs operations involving integers and floats, it implicitly converts the integers type to a float, and then completes the operation.
