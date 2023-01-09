@@ -13,3 +13,8 @@ for i in range(10):
     print('looping..', i)
 
 # these are few examples of for looping in python.
+
+count = 0
+while count < len(favorites):
+    print("i love..", favorites[count])
+    count += 1
