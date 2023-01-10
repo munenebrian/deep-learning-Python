@@ -22,3 +22,6 @@ e = ('A', 34, 'f', 2) #tuple
 print(type(e))
 
 print(type(False)) #any truthy or falsey value is a boolean
+
+
+# with all the data types, we can remind ourselves that strings are like array elemtns and can actually be looped over
