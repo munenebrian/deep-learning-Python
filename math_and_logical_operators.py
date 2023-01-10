@@ -25,3 +25,4 @@ z = False
 if not(w) or not(z):
     print("Neither is false!")
 
+# check on logical operators math operators
