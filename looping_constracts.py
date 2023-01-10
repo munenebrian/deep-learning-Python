@@ -18,3 +18,8 @@ count = 0
 while count < len(favorites):
     print("i love..", favorites[count])
     count += 1
+
+
+for i in range(100):
+    print('looping..', i)
+# here if we increase the range we output more lines 
