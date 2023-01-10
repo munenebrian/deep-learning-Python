@@ -17,3 +17,5 @@ else:
     weight = weight - gravity
 
 print("Your weight in mars is: ", weight)
+
+#the if and else and elif can all be used in case of short condition statements or few conditions, in many conditions we use match or compared to as switch.
