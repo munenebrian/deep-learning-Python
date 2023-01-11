@@ -7,8 +7,8 @@ favorites = ['banana', 'orange', 'strawberry', 'pineapple', 'avocado']
 
 for item in favorites:
     print("I like this fruit...", item)
-
-
+# the for loop makes it easy to work withany type of sequence in python.
+# in the code above, for loop iterates through the listed items in the array
 for i in range(10):
     print('looping..', i)
 
@@ -18,8 +18,9 @@ count = 0
 while count < len(favorites):
     print("i love..", favorites[count])
     count += 1
-
+#  a while loop is based upon a condition to being true, once the condition is no longer true the loop stops executing
+# a while loop needs a counter variable to be checked in with the condition.
 
 for i in range(100):
     print('looping..', i)
-# here if we increase the range we output more lines 
+# here if we increase the range we output more lines
