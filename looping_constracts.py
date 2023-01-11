@@ -24,3 +24,13 @@ while count < len(favorites):
 for i in range(100):
     print('looping..', i)
 # here if we increase the range we output more lines
+
+# in this next code we want to isolate one item in our list of desserts
+
+favorites = ['Creme Brulee', 'Apple Pie', 'Churros', 'Tiramisú', 'Chocolate Cake']
+
+for dessert in favorites:
+    if dessert == 'Churros':
+        print('Yes! One of my favorite desserts is', dessert)
+else:
+    print('No sorry, that dessert is not on my list')
