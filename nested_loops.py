@@ -25,3 +25,6 @@ for i in range(100):
     print()
 
 print(round((time.time() - start_time), 2))
+
+
+# nested loops are a key topic in programming make sure to tke keen practise on.
